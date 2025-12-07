@@ -14,7 +14,7 @@ import {
   SiReact,
   SiHibernate
 } from 'react-icons/si';
-import { FaShieldAlt, FaDatabase, FaCogs, FaEnvelope, FaCloud, FaLock, FaHospital, FaUniversity, FaCode } from 'react-icons/fa';
+import { FaShieldAlt, FaDatabase, FaCogs, FaEnvelope, FaLock } from 'react-icons/fa';
 
 function App() {
   const [isScrolled, setIsScrolled] = useState(false);
